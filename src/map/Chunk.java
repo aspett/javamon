@@ -1,4 +1,6 @@
-package game;
+package map;
+
+import entities.Entity;
 
 /**
  * A chunk represents one section of the overall map. These are displayed on the

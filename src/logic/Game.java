@@ -1,5 +1,6 @@
-package game;
+package logic;
 
-public class Game {
+
+public class Game implements GameI {
 
 }

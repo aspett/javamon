@@ -1,4 +1,6 @@
-package game;
+package map;
+
+import entities.Door;
 
 public class TeleportTile implements Tile {
 	private Chunk destinationChunk;
