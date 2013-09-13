@@ -1,4 +1,4 @@
-package game;
+package entities;
 
 public interface Entity {
 

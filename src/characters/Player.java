@@ -1,4 +1,6 @@
-package game;
+package characters;
+
+import holdables.Holdable;
 
 import java.util.ArrayList;
 import java.util.List;

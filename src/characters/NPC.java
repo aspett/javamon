@@ -1,4 +1,5 @@
-package game;
+package characters;
+
 
 public interface NPC extends Character{
 

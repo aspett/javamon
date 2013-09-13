@@ -1,4 +1,5 @@
-package game;
+package holdables;
+
 
 public interface Key extends Holdable {
 

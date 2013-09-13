@@ -1,5 +1,7 @@
-package game;
+package characters;
 
-public interface Mon extends Holdable, Character {
+import holdables.Holdable;
+
+public interface MonI extends Holdable, Character {
 
 }

@@ -1,4 +1,5 @@
-package game;
+package entities;
+
 
 public interface Door extends Interactable {
 

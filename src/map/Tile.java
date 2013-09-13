@@ -1,4 +1,6 @@
-package game;
+package map;
+
+import entities.Entity;
 
 public interface Tile {
 	/** Returns whether this tile contains an entity. */
